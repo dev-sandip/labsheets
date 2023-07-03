@@ -9,9 +9,10 @@ int count =0;
 printf("Enter the numbers :\n");
 scanf("%d%d",&a,&b);
 for ( int i = a;i<=b; i++){
-  if (i%2==0)
+  if (i%2==0){
    count++;  
     printf("%d is even \n",i);
+    }
            
 }
 printf("The total number of even numbers between %d and %d is %d",a,b,count);
