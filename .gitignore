@@ -51,6 +51,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 #LabSheet Exceptions
+LabSheet-2/q1
+LabSheet-2/q2
+LabSheet-2/q3
+LabSheet-2/q4
+LabSheet-2/q5
 LabSheet-5/q1
 LabSheet-5/q2
 LabSheet-5/q3
