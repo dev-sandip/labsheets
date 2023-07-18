@@ -1,10 +1,8 @@
 # ERC LabSheet Solutions
 
-It is a Solutions of Labsheets of C-Programming for first semester of Bachelor of Computer Enginnering !!
+It is a Solutions of [Labsheets](https://github.com/dev-sandip/labsheets/blob/main/Lab_Seet_Questions.pdf) of C-Programming for first semester of Bachelor of Computer Enginnering !!
 
 ### Authors
-
-- [git-sandip(079)](https://www.github.com/git-sandip)
 - [dev-sandip(079)](https://www.github.com/dev-sandip)
 - [git-manishbasnet(079)](https://www.github.com/git-manishbasnet)
 
